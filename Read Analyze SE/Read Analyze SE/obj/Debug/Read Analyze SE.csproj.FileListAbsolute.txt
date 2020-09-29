@@ -1,0 +1,11 @@
+C:\Users\Daniel\AppData\Local\Temporary Projects\Read Analyze SE\bin\Debug\Read Analyze SE.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Read Analyze SE\Read Analyze SE\bin\Debug\Read Analyze SE.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Read Analyze SE\Read Analyze SE\bin\Debug\Read Analyze SE.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Read Analyze SE\Read Analyze SE\bin\Debug\Read Analyze SE.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Read Analyze SE\Read Analyze SE\obj\Debug\Read Analyze SE.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Read Analyze SE\Read Analyze SE\obj\Debug\Read_Analyze_SE.frm_main.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Read Analyze SE\Read Analyze SE\obj\Debug\Read_Analyze_SE.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Read Analyze SE\Read Analyze SE\obj\Debug\Read Analyze SE.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Read Analyze SE\Read Analyze SE\obj\Debug\Read Analyze SE.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Read Analyze SE\Read Analyze SE\obj\Debug\Read Analyze SE.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Read Analyze SE\Read Analyze SE\obj\Debug\Read_Analyze_SE.RASEAbout.resources

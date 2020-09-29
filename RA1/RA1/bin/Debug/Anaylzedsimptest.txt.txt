@@ -1,0 +1,13 @@
+simptest.txt contains 13 words in document.
+Presently there are 44 charecters in place.(EVERYTHING)
+Of which there are 8 diffrent words in it.
+
+Read Analyzer 1 --------------------RESULTS ON:8/7/2015-------------------
+hi Count: 2                                        |**
+my Count: 2                                        |**
+name Count: 2                                      |**
+is Count: 2                                        |**
+daniel Count: 2                                    |**
+how Count: 1                                       |*
+are Count: 1                                       |*
+you Count: 1                                       |*
